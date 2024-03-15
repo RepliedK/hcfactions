@@ -1,0 +1,8 @@
+name: HCFactions
+main: org.repliedk.Main
+api-version: 1.0.14
+version: 1.0
+
+permissions:
+  default.permission:
+    default: true
